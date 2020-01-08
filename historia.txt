@@ -1,0 +1,5 @@
+Hola soy omar
+
+Me gustaria mucho ser programador, sin embargo primero tengo que aprender muchas cosas, entre ellas:
+
+-Bases de datos,git,Desarrollo java backend, frontend.
